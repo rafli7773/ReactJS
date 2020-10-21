@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1603241174290,
+      "title": "Sabun",
+      "body": "Jedink"
+    },
+    {
+      "userId": 1,
+      "id": 1603248383428,
+      "title": "Kucing",
+      "body": "Rumah"
+    }
+  ]
+}
